@@ -4,3 +4,7 @@ body {
   background-color: rgb(73, 30, 129);
   color: #ddd9d9;
 }
+a {
+  color: #b1ddfb;
+  text-decoration: underline;
+}
